@@ -1,7 +1,7 @@
 # Hello! I'm Francisco! 👋
 
 - 📊 I’m working on Data Science Projects to build my portfolio.
-- 📚 Currently Studying Python, SQL, Machine Learning models and Statistics.
+- 📚 Currently Studying Python, SQL, Machine Learning models and statistics.
 - 📈 Looking for opportunities to leverage results of a company by using data!
 ## Languages:
 
