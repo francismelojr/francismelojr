@@ -1,4 +1,4 @@
-# Hello! I'm Francisco!! 👋
+# Hello! I'm Francisco! 👋
 
 - 📊 I’m working on Data Science Projects to build my portfolio.
 - 📚 Currently Studying Python, SQL, Machine Learning models and statistics.
