@@ -1,8 +1,8 @@
 # Hello! I'm Francisco! 👋
 
-- 📊 I’m working on Data Science Projects to build my portfolio.
+- 📊 I’m working on Data Science and Data Engineering Projects to build my portfolio.
 - 📚 Currently Studying Python, SQL, Machine Learning models and statistics.
-- 📈 Looking for opportunities to leverage results of a company by using data!
+- 📈 Currently working as Data Analyst for Conexa Saúde!
 ## Languages:
 
 <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
