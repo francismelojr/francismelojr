@@ -17,5 +17,3 @@
   <img height="55em" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" />  
   </a>
 </div>
-
-![snake gif](https://raw.githubusercontent.com/francismelojr/francismelojr/output/github-contribution-grid-snake.svg)
